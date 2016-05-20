@@ -136,5 +136,7 @@ Toast.makeText(NoteActivity.this, "text"+list.size(), Toast.LENGTH_SHORT).show()
 
 ##最后
 本文 Demo 下载链接：[https://github.com/tangqi92/MyGreenDAO](https://github.com/JunWeiUp/GreenDao/)
+
+
 本教程旨在介绍 greenDAO 的基本用法与配置，更高级与详细的使用，请参见 [官网](http://greendao-orm.com/)
 如本文有任何问题欢迎指正。
